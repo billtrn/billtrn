@@ -7,6 +7,6 @@ My interests include, but not limited to, Web Development and Machine Learning. 
 📫 Reach me via:
 - Email: trantriducs@gmail.com
 - My site: https://billtrn.com
-- I also write on [Medium](trantriducs.medium.com)
+- I also write on [Medium](https://trantriducs.medium.com)
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=billtrn&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="billtrn" />
